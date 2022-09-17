@@ -1,0 +1,25 @@
+# ninja log v5
+43	1578	6725243109600075	CMakeFiles/ExamReal.dir/main.cpp.obj	b7243a3f1c05e7a5
+4	2430	6725243118122603	CMakeFiles/ExamReal.dir/SDLManager.cpp.obj	ed1711dac435b2a8
+47	1346	6725243107268565	CMakeFiles/ExamReal.dir/Vector2D.cpp.obj	d5e954e624a36a9b
+50	2224	6725243116061546	CMakeFiles/ExamReal.dir/Background.cpp.obj	a2dcfed47377ce70
+45	1659	6725243110410256	CMakeFiles/ExamReal.dir/Texture.cpp.obj	8c5a5c111154c039
+56	1339	6725243107208550	CMakeFiles/ExamReal.dir/Collision.cpp.obj	8ad3b788591cb01f
+2431	3031	6725243124099842	ExamReal.exe	3dfcc29aab86ac88
+58	1381	6725243107628645	CMakeFiles/ExamReal.dir/ComponentBasedES/ComponentSystem.cpp.obj	2258976dcfb30abf
+2	165	6851313456821936	build.ninja	89eac5d62d6e3ba6
+53	2345	6725243117271818	CMakeFiles/ExamReal.dir/AssetManager.cpp.obj	408b694aae8cc124
+63	2055	6725243114371152	CMakeFiles/ExamReal.dir/ComponentBasedES/HealthComponent.cpp.obj	efcca15c0f6adf85
+61	2189	6725243115711461	CMakeFiles/ExamReal.dir/EnemyFactory.cpp.obj	335de4491b0f42d5
+0	12	0	clean	85650328b38a24bf
+242	1392	6851313534112153	CMakeFiles/ExamReal.dir/Vector2D.cpp.obj	41082a9d3c2a27f6
+329	1674	6851313536934726	CMakeFiles/ExamReal.dir/Collision.cpp.obj	cf9fb68002387696
+7	1756	6851313537775492	CMakeFiles/ExamReal.dir/main.cpp.obj	4015103a62f46f1a
+130	1904	6851313539246823	CMakeFiles/ExamReal.dir/Texture.cpp.obj	6c4fdc3a187d0700
+519	1978	6851313539987492	CMakeFiles/ExamReal.dir/ComponentBasedES/ComponentSystem.cpp.obj	b7b95c90871db5f9
+89	2650	6851313546713607	CMakeFiles/ExamReal.dir/Background.cpp.obj	6e4ca9da7d46d971
+612	2843	6851313548635349	CMakeFiles/ExamReal.dir/ComponentBasedES/HealthComponent.cpp.obj	2939e13a7e6fce0e
+48	2857	6851313548765476	CMakeFiles/ExamReal.dir/SDLManager.cpp.obj	abb8e759efa9198d
+425	3024	6851313550436986	CMakeFiles/ExamReal.dir/AssetManager.cpp.obj	56b4095c0f0ac791
+700	3071	6851313550917423	CMakeFiles/ExamReal.dir/EnemyFactory.cpp.obj	3fc7e5d5d9f89abb
+3072	3754	6851313557643623	ExamReal.exe	3dfcc29aab86ac88
